@@ -1,4 +1,4 @@
-# RPG-game-2d-android-
+# RPG-game-2d-android
 RPG Real time 2d for Android or PC 
 
 в игре будет зонирование / область которую будет видеть игрок.  типо сетки 
